@@ -1,7 +1,7 @@
 Prueba Técnica
 
 Se utilizan los datos asignados en el PDF para la respectiva conexion a base de datos.
-![image](https://user-images.githubusercontent.com/56236919/169747978-021748d3-480e-4217-b948-39ecc2919cd0.png)
+![image](https://user-images.githubusercontent.com/56236919/169748910-a6d9dcfa-cf5c-4ac3-af4b-ad4469ac9bb4.png)
 
 La diferencia entre el metodo POST y GET
 
